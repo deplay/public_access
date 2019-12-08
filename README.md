@@ -1,2 +1,2 @@
 # public_access
-for public access
+public access
